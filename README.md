@@ -1,6 +1,9 @@
 # WebOllama
 
 Webollama is a plugin integrated into the web that allows for conversation with any model in Ollama.
+|||
+|:-|:-|
+|![](./images/home.png)|![](./images/settings.png)|
 
 # How to use
 
