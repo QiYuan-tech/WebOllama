@@ -12,6 +12,10 @@ Webollama is a plugin integrated into the web that allows for conversation with 
 3. Install webollama as a ZIP archive.
 4. Refresh your webpage and configure the webollama options in the extension.‘
    - Windows
-```python
-$env:OLLAMA_ORIGINS="chrome-extension://*"; ollama serve
-```
+   ```python
+   $env:OLLAMA_ORIGINS="chrome-extension://*"; ollama serve
+   ```
+   - Linux
+   ```python
+   OLLAMA_ORIGINS=chrome-extension://* ollama serve
+   ```
