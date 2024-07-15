@@ -19,3 +19,5 @@ Webollama is a plugin integrated into the web that allows for conversation with 
    ```python
    OLLAMA_ORIGINS=chrome-extension://* ollama serve
    ```
+
+<!-- https://github.com/gyopak/sidellama -->
